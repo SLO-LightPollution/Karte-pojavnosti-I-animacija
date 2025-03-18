@@ -10,8 +10,8 @@ Ta repozitorij vsebuje vizualizacije svetlobne onesnaženosti za izbrana slovens
     <img src="Ljubljana.gif" width="100%">
     <br>
     <div style="display: flex; align-items: center; justify-content: center;">
+        <h2 style="margin-right: 15px;">Ljubljana</h2>
         <img src="Ljubljana.png" width="30%">
-        <h2 style="margin-left: 15px;">Ljubljana</h2>
     </div>
 </div>
 
@@ -21,8 +21,8 @@ Ta repozitorij vsebuje vizualizacije svetlobne onesnaženosti za izbrana slovens
     <img src="Trst-Koper.gif" width="100%">
     <br>
     <div style="display: flex; align-items: center; justify-content: center;">
+        <h2 style="margin-right: 15px;">Trst in Koper</h2>
         <img src="Trst-Koper.png" width="30%">
-        <h2 style="margin-left: 15px;">Trst in Koper</h2>
     </div>
 </div>
 
@@ -32,8 +32,8 @@ Ta repozitorij vsebuje vizualizacije svetlobne onesnaženosti za izbrana slovens
     <img src="Maribor.gif" width="100%">
     <br>
     <div style="display: flex; align-items: center; justify-content: center;">
+        <h2 style="margin-right: 15px;">Maribor</h2>
         <img src="Maribor.png" width="30%">
-        <h2 style="margin-left: 15px;">Maribor</h2>
     </div>
 </div>
 
@@ -43,8 +43,8 @@ Ta repozitorij vsebuje vizualizacije svetlobne onesnaženosti za izbrana slovens
     <img src="Celje.gif" width="100%">
     <br>
     <div style="display: flex; align-items: center; justify-content: center;">
+        <h2 style="margin-right: 15px;">Celje</h2>
         <img src="Celje.png" width="30%">
-        <h2 style="margin-left: 15px;">Celje</h2>
     </div>
 </div>
 
@@ -54,8 +54,8 @@ Ta repozitorij vsebuje vizualizacije svetlobne onesnaženosti za izbrana slovens
     <img src="Kranj.gif" width="100%">
     <br>
     <div style="display: flex; align-items: center; justify-content: center;">
+        <h2 style="margin-right: 15px;">Kranj</h2>
         <img src="Kranj.png" width="30%">
-        <h2 style="margin-left: 15px;">Kranj</h2>
     </div>
 </div>
 
@@ -65,8 +65,8 @@ Ta repozitorij vsebuje vizualizacije svetlobne onesnaženosti za izbrana slovens
     <img src="Novo-mesto.gif" width="100%">
     <br>
     <div style="display: flex; align-items: center; justify-content: center;">
+        <h2 style="margin-right: 15px;">Novo mesto</h2>
         <img src="Novo-mesto.png" width="30%">
-        <h2 style="margin-left: 15px;">Novo mesto</h2>
     </div>
 </div>
 
