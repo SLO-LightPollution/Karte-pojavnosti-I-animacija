@@ -1,4 +1,3 @@
-
 # 🌍 Svetlobna onesnaženost 2013 - 2022
 
 Ta repozitorij vsebuje vizualizacije svetlobne onesnaženosti za izbrana slovenska mesta.
@@ -7,65 +6,72 @@ Ta repozitorij vsebuje vizualizacije svetlobne onesnaženosti za izbrana slovens
 
 ---
 
-### <h2 align="center"><b>Ljubljana</b></h2>
-
 <div style="border: 3px solid black; padding: 10px; text-align: center;">
     <img src="Ljubljana.gif" width="100%">
     <br>
-    <img src="Ljubljana.png" width="30%" style="display: block; margin: auto;">
+    <div style="display: flex; align-items: center; justify-content: center;">
+        <img src="Ljubljana.png" width="30%">
+        <h2 style="margin-left: 15px;">Ljubljana</h2>
+    </div>
 </div>
 
 ---
-
-### <h2 align="center"><b>Trst in Koper</b></h2>
 
 <div style="border: 3px solid black; padding: 10px; text-align: center;">
     <img src="Trst-Koper.gif" width="100%">
     <br>
-    <img src="Trst-Koper.png" width="30%" style="display: block; margin: auto;">
+    <div style="display: flex; align-items: center; justify-content: center;">
+        <img src="Trst-Koper.png" width="30%">
+        <h2 style="margin-left: 15px;">Trst in Koper</h2>
+    </div>
 </div>
 
 ---
-
-### <h2 align="center"><b>Maribor</b></h2>
 
 <div style="border: 3px solid black; padding: 10px; text-align: center;">
     <img src="Maribor.gif" width="100%">
     <br>
-    <img src="Maribor.png" width="30%" style="display: block; margin: auto;">
+    <div style="display: flex; align-items: center; justify-content: center;">
+        <img src="Maribor.png" width="30%">
+        <h2 style="margin-left: 15px;">Maribor</h2>
+    </div>
 </div>
 
 ---
-
-### <h2 align="center"><b>Celje</b></h2>
 
 <div style="border: 3px solid black; padding: 10px; text-align: center;">
     <img src="Celje.gif" width="100%">
     <br>
-    <img src="Celje.png" width="30%" style="display: block; margin: auto;">
+    <div style="display: flex; align-items: center; justify-content: center;">
+        <img src="Celje.png" width="30%">
+        <h2 style="margin-left: 15px;">Celje</h2>
+    </div>
 </div>
 
 ---
-
-### <h2 align="center"><b>Kranj</b></h2>
 
 <div style="border: 3px solid black; padding: 10px; text-align: center;">
     <img src="Kranj.gif" width="100%">
     <br>
-    <img src="Kranj.png" width="30%" style="display: block; margin: auto;">
+    <div style="display: flex; align-items: center; justify-content: center;">
+        <img src="Kranj.png" width="30%">
+        <h2 style="margin-left: 15px;">Kranj</h2>
+    </div>
 </div>
 
 ---
 
-### <h2 align="center"><b>Novo mesto</b></h2>
-
 <div style="border: 3px solid black; padding: 10px; text-align: center;">
     <img src="Novo-mesto.gif" width="100%">
     <br>
-    <img src="Novo-mesto.png" width="30%" style="display: block; margin: auto;">
+    <div style="display: flex; align-items: center; justify-content: center;">
+        <img src="Novo-mesto.png" width="30%">
+        <h2 style="margin-left: 15px;">Novo mesto</h2>
+    </div>
 </div>
 
 ---
 
 ## 🔗 Povezave
-🌍 [NASA Earthdata - Nighttime Lights](https
+🌍 [NASA Earthdata - Nighttime Lights](https://www.earthdata.nasa.gov/topics/human-dimensions/nighttime-lights)  
+🌍 [Temno Nebo Slovenija](http://www.temnonebo.si/)
