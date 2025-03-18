@@ -76,6 +76,7 @@ Ta repozitorij vsebuje vizualizacije svetlobne onesnaženosti za izbrana slovens
     function animateCanvas() {
         document.querySelectorAll('.overlayCanvas').forEach(canvas => {
             const img = document.getElementById(canvas.getAttribute('data-target'));
+            if (!img) return;
             canvas.width = img.width;
             canvas.height = img.height;
             const ctx = canvas.getContext('2d');
@@ -105,8 +106,6 @@ Ta repozitorij vsebuje vizualizacije svetlobne onesnaženosti za izbrana slovens
 
     window.onload = animateCanvas;
 </script>
-
----
 
 ## 🔗 POVEZAVE
 🌍 [NASA Earthdata - Nighttime Lights](https://www.earthdata.nasa.gov/topics/human-dimensions/nighttime-lights)  
