@@ -11,7 +11,7 @@ Ta repozitorij vsebuje vizualizacije svetlobne onesnaženosti za izbrana slovens
 <div style="border: 3px solid black; padding: 10px; display: inline-block;">
     <img src="Ljubljana.gif" width="100%">
     <br>
-    <img src="Ljubljana.png" width="50%" style="display: block; margin: auto;">
+    <img src="Ljubljana.png" width="100%" style="display: block; margin: auto;">
 </div>
 
 ---
@@ -21,7 +21,7 @@ Ta repozitorij vsebuje vizualizacije svetlobne onesnaženosti za izbrana slovens
 <div style="border: 3px solid black; padding: 10px; display: inline-block;">
     <img src="Trst-Koper.gif" width="100%">
     <br>
-    <img src="Trst-Koper.png" width="50%" style="display: block; margin: auto;">
+    <img src="Trst-Koper.png" width="100%" style="display: block; margin: auto;">
 </div>
 
 ---
@@ -31,7 +31,7 @@ Ta repozitorij vsebuje vizualizacije svetlobne onesnaženosti za izbrana slovens
 <div style="border: 3px solid black; padding: 10px; display: inline-block;">
     <img src="Maribor.gif" width="100%">
     <br>
-    <img src="Maribor.png" width="50%" style="display: block; margin: auto;">
+    <img src="Maribor.png" width="100%" style="display: block; margin: auto;">
 </div>
 
 ---
@@ -41,7 +41,7 @@ Ta repozitorij vsebuje vizualizacije svetlobne onesnaženosti za izbrana slovens
 <div style="border: 3px solid black; padding: 10px; display: inline-block;">
     <img src="Celje.gif" width="100%">
     <br>
-    <img src="Celje.png" width="50%" style="display: block; margin: auto;">
+    <img src="Celje.png" width="100%" style="display: block; margin: auto;">
 </div>
 
 ---
@@ -51,7 +51,7 @@ Ta repozitorij vsebuje vizualizacije svetlobne onesnaženosti za izbrana slovens
 <div style="border: 3px solid black; padding: 10px; display: inline-block;">
     <img src="Kranj.gif" width="100%">
     <br>
-    <img src="Kranj.png" width="50%" style="display: block; margin: auto;">
+    <img src="Kranj.png" width="100%" style="display: block; margin: auto;">
 </div>
 
 ---
@@ -61,7 +61,7 @@ Ta repozitorij vsebuje vizualizacije svetlobne onesnaženosti za izbrana slovens
 <div style="border: 3px solid black; padding: 10px; display: inline-block;">
     <img src="Novo-mesto.gif" width="100%">
     <br>
-    <img src="Novo-mesto.png" width="50%" style="display: block; margin: auto;">
+    <img src="Novo-mesto.png" width="100%" style="display: block; margin: auto;">
 </div>
 
 ---
