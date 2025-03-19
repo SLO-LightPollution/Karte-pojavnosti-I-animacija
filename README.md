@@ -1,10 +1,6 @@
-# 🌍 SVETLOBNA ONESNAŽENOST 2013 - 2022
+# 🌍 Karte pojavnosti (I)
 
-Ta repozitorij vsebuje vizualizacije svetlobne onesnaženosti za izbrana slovenska mesta.
-
-## 📌 ANIMACIJE SVETLOBNE ONESNAŽENOSTI
-
----
+Ta repozitorij vsebuje animacije gibanja radiance [nW/cm^2/sr] sevanja NTL šestih večjih mest v Sloveniji.
 
 <h2 style="text-align: center; font-size: 22px; font-weight: bold;">LJUBLJANA</h2>
 <div style="border: 3px solid black; padding: 10px; text-align: center;">
