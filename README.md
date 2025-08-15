@@ -6,8 +6,7 @@ Ta repozitorij vsebuje animacije gibanja radiance [nW/cm^2/sr] sevanja NTL šest
 <div style="border: 3px solid black; padding: 10px; text-align: center;">
     <img src="Ljubljana.gif" width="100%">
     <br>
-    <img src="Ljubljana.png" width="50%" height="auto" style="display: block; margin: auto;">
-</div>
+    </div>
 
 ---
 
@@ -15,8 +14,7 @@ Ta repozitorij vsebuje animacije gibanja radiance [nW/cm^2/sr] sevanja NTL šest
 <div style="border: 3px solid black; padding: 10px; text-align: center;">
     <img src="Trst-Koper.gif" width="100%">
     <br>
-    <img src="Trst-Koper.png" width="50%" height="auto" style="display: block; margin: auto;">
-</div>
+    </div>
 
 ---
 
@@ -24,8 +22,7 @@ Ta repozitorij vsebuje animacije gibanja radiance [nW/cm^2/sr] sevanja NTL šest
 <div style="border: 3px solid black; padding: 10px; text-align: center;">
     <img src="Maribor.gif" width="100%">
     <br>
-    <img src="Maribor.png" width="50%" height="auto" style="display: block; margin: auto;">
-</div>
+    </div>
 
 ---
 
@@ -33,8 +30,7 @@ Ta repozitorij vsebuje animacije gibanja radiance [nW/cm^2/sr] sevanja NTL šest
 <div style="border: 3px solid black; padding: 10px; text-align: center;">
     <img src="Celje.gif" width="100%">
     <br>
-    <img src="Celje.png" width="50%" height="auto" style="display: block; margin: auto;">
-</div>
+    </div>
 
 ---
 
@@ -42,8 +38,7 @@ Ta repozitorij vsebuje animacije gibanja radiance [nW/cm^2/sr] sevanja NTL šest
 <div style="border: 3px solid black; padding: 10px; text-align: center;">
     <img src="Kranj.gif" width="100%">
     <br>
-    <img src="Kranj.png" width="50%" height="auto" style="display: block; margin: auto;">
-</div>
+    </div>
 
 ---
 
@@ -51,8 +46,7 @@ Ta repozitorij vsebuje animacije gibanja radiance [nW/cm^2/sr] sevanja NTL šest
 <div style="border: 3px solid black; padding: 10px; text-align: center;">
     <img src="Novo-mesto.gif" width="100%">
     <br>
-    <img src="Novo-mesto.png" width="50%" height="auto" style="display: block; margin: auto;">
-</div>
+    </div>
 
 ---
 
